@@ -1,0 +1,12 @@
+
+#tb1{ margin-top: 10px; margin-left: 85%; 
+background: lightblue; border-style: solid;}
+#td1{width: 5px;height: 5px;border-style: solid;}
+
+
+#tb2{ border-style: solid;}
+
+#td2{ background: gray;width: 15px; height: 15px; border-style: dotted;}
+
+#td31{border: image 30;}
+#tr3{border: double;}

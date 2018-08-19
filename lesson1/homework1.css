@@ -1,0 +1,18 @@
+p{}
+
+#headline{font-size: 24px; font-weight: bold;text-align: center;color:red;text-shadow: 3px 2px green;}
+#p1{font-size: 18px;text-indent: 10%;color:rgb(150,100,60);
+     word-spacing: 2px;letter-spacing: 1px;line-height: 1.5;}
+
+     #p2{font-size: 18px;text-indent: 10%;color:rgb(229, 247, 74);
+        word-spacing: 2px;letter-spacing: 1px;line-height: 1.5; text-transform: capitalize; }
+
+        #p3{font-size: 18px;text-indent: 10%;color:rgb(2, 47, 74);
+            word-spacing: 2px;letter-spacing: 1px;line-height: 1.5; text-transform: capitalize; }
+
+            #p4{font-size: 18px;text-indent: 10%;color:rgb(229, 27, 74);
+                word-spacing: 2px;letter-spacing: 1px;line-height: 1.5; text-transform: capitalize; }
+
+                #p5{font-size: 18px;text-indent: 10%;color:rgb(29, 80, 4);
+                    word-spacing: 2px;letter-spacing: 1px;line-height: 1.5; text-transform: capitalize; }
+
