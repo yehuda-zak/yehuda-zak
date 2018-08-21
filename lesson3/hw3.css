@@ -1,0 +1,14 @@
+
+body{background-image: url("AYANA\ RESTurant.jpg");
+position:sticky;
+
+background-position: center;
+image-rendering: optimizeSpeed;
+filter: opacity(100%);
+}
+.c1{color: #060f00;
+margin-left: 15% ;
+margin-top: 6%;
+}
+#h2{ }
+img{height: 1cm;width: 2cm;}
