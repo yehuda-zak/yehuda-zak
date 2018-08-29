@@ -1,0 +1,85 @@
+#w1{
+        animation: aa1 10s infinite;
+        position: relative;
+    }
+
+img{height: 100px; width: 100px;}
+@aa11{
+    img{height: 800px; width: 800px;}
+}    
+@keyframes aa1{
+        0%{left: 0px;top: 0px;}
+        10%{left: 1000px; top: 0px;}
+        25%{left: 1000px; top: 1000px;}
+        50%{left: 0px; top: 1000px;}
+        100%{left: 0px; top: 0px;}
+    }
+
+#w2{
+        animation: aa2 10s infinite;
+        margin-left: 100px;
+        margin-top: 0px;
+        position: relative;
+    }
+
+@keyframes aa2{
+        0%{ left: 0px;top: 0px;}
+        10%{ left: 800px; top: 0px;}
+        25%{ left: 800px; top: 800px;}
+        50%{ left: 0px; top: 800px;}
+        100%{ left: 0px; top: 0px;}
+    }
+
+   
+.w3 {
+            overflow: hidden;
+            margin-left: 200PX;   
+            height: 600px;
+            width: 600px;
+            background-color: white;
+            border:1px;
+            position: absolute;  
+
+    }
+.w3:hover{
+    animation: aa3 3s infinite;
+    
+}
+
+
+
+    @keyframes aa3{
+        0%{
+            height: 600px;
+            width: 600px;
+            background-color: white;
+            margin-left: 200px;
+            border:1px;
+            }
+        2%{  
+            margin-left: 500px;
+            margin-top: 300px;
+            width: 2px;
+            height: 2px;
+            background-color: white;
+            border-radius: 100%;      
+          }
+
+        3%{
+            margin-left: 500px;
+            margin-top: 300px;
+            width: 2px;
+            height: 2px;
+            background-color: red;
+            border-radius: 100%;
+            }
+
+        100%{  
+            margin-left:-500px;
+            margin-top: -500px;
+            width: 2500px;
+            height: 2500px;
+            background-color: red;
+            border-radius: 100%;     
+             }  
+    }
